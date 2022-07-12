@@ -1,18 +1,17 @@
+let comedia = [{
+    title: 'As Branquelas',
+    diretor: 'Keenen Ivory Wayans',
+    year: 2004
+}]
 
-let comedy = [
-    title: 'Liar Liar',
-    director: ' Tom Shadyac',
-    year: '1997',
-]
+let action = [{
+    title: 'Duro de Matar',
+    diretor:'John McTiernan',
+    year:1989
+}]
 
-let action = [
-    title: 'Uncharted',
-    director: 'Ruben Fleischer',
-    year: '2022',
-]
-
-let fantasy = [
-    title: 'Spider Man No Way Home',
-    director: 'Jon Watts',
-    year: '2021',
-]
+let fantasy = [{
+    title: 'Alice no Pais das Maravilhas',
+    diretor: 'Tim Burton',
+    year: 2010
+}]
